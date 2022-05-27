@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @vicmaq
-- 👀 I’m interested in Mobile Development and ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ansible opensource project
+- This is Victor Aquino
+- DevOps Engineer
+- Oracle Database & OCI expert
+- APEX Developer
+- Experienced Perl/Java Developer
 - 📫 How to reach me: send an email to vicmaq@gmail.com
 
 <!---
